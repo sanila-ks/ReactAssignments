@@ -1,0 +1,44 @@
+.formContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.qform{
+    display: grid;
+    padding-top: 20px; 
+    background-color: blanchedalmond;
+    border: black 1px solid;
+    width:700px;
+    height:fit-content;
+    
+    margin-bottom: 20px;
+}
+
+.eduContainer{
+    display: grid;
+    row-gap: 1.5rem;
+}
+
+.expContainer{
+    display: grid;
+    row-gap: 1.5rem;
+}
+
+.qmain{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    margin-left:30px;  
+    column-gap: 2rem;
+    font-weight: bold; 
+}
+
+.btnQ{
+    display: flex;
+    justify-content: center; 
+}
+
+.result{
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}

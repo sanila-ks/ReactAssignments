@@ -1,0 +1,26 @@
+
+table, th, td {
+    border:1px solid black;
+  }
+
+  .table{
+    margin-top: 20px;
+    width: 80%;
+    background-color: blanchedalmond;
+  }
+
+  .btn{
+    color: white;
+    background-color: #770a34 ;
+}
+
+.tablehead{
+  background-color: #b1728a;
+  font-size: larger;
+  text-align: center;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,28 @@
+.formContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.sform{
+    display: grid;
+    padding-top: 20px; 
+    background-color: blanchedalmond;
+    border: black 1px solid;
+    width: 500px;
+    height: fit-content;
+    row-gap: 1px;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    margin-left:20px;   
+}
+
+.btnS{
+    display: flex;
+    justify-content: center; 
+    margin-bottom: 20px;  
+}
+

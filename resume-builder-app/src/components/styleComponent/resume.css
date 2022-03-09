@@ -1,0 +1,113 @@
+
+.rContainer{
+  background-color: rgb(253, 253, 253);
+  height: 700px;
+  width:750px;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 0.5rem;
+}
+
+.rHeading{
+  background-color: rgb(38, 85, 53);
+  color: white;
+  height: 100px;
+  width: 750px;
+  margin-top: 1.5rem;
+}
+
+.rPersonal{
+  background-color: rgb(155, 204, 171);
+  height:150px;
+  width: 700px;
+  margin-top: 1.5rem;
+  border-radius: 0.5rem;
+  margin-left: 25px;
+}
+
+.rHead{
+  background-color: rgb(73, 146, 97);
+  border-radius: 0.5rem;
+  height: 30px;
+  padding-left: 2rem;
+}
+
+.rAddr{
+  
+  height: fit-content;
+  width: 250px;
+  margin-top: 1rem;
+  margin-left: 25px;
+}
+
+.rPh{
+  
+  height: fit-content;
+  width: 250px;
+  margin-top: 1rem;
+  margin-left: 25px;
+}
+
+.rEmail{
+  height: fit-content;
+  width: 250px;
+  margin-top: 1rem;
+  margin-left: 25px;
+}
+
+.rQualification{
+  
+  margin-top: 1rem;
+  width: 700px;
+  height: fit-content;
+  margin-left: 25px;
+  border-radius: 0.5rem;
+  column-gap: 1.5rem;
+}
+
+.rEdu{
+  background-color: rgb(155, 204, 171);
+  height: fit-content;
+  margin-top: 1rem;
+  width: 350px;
+  border-radius: 0.5rem;
+  margin-left: 5px;
+}
+
+.rExp{
+  background-color:rgb(155, 204, 171);
+  height: fit-content;
+  margin-top: 1rem;
+  width: 350px;
+  border-radius: 0.5rem;
+  margin-left:15px;
+}
+
+.rSkills{
+  background-color: rgb(155, 204, 171); 
+  width: 700px;
+  margin-top: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+/* table, th, td {
+    border:1px solid black;
+  }
+
+  .table{
+    margin-top: 20px;
+    width: 80%;
+    background-color: blanchedalmond;
+  }
+
+  .btn{
+    color: white;
+    background-color: #770a34 ;
+}
+
+.tablehead{
+  background-color: #b1728a;
+  font-size: larger;
+  text-align: center;
+} */
